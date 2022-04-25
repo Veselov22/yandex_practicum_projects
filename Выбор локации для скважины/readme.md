@@ -27,7 +27,3 @@
 - sklearn (LinearRegression, StandardScaler, mse)
 - Метрики для бизнеса 
 
-
-```python
-
-```
